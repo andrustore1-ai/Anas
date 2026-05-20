@@ -1,14 +1,14 @@
 // firebase.js - ملف فايربيز الوحيد في المشروع
 // إصلاح جذري: حفظ محلي أولاً، ثم مزامنة سحابية آمنة للحفظ والتعديل والحذف بدون تغيير تصميم الصفحات.
 const firebaseConfig = {
-  apiKey: "AIzaSyDZM55q57Mwgf3t0WbzRYLnt2EGrY7lJMA",
-  authDomain: "ziada-8d6ed.firebaseapp.com",
-  databaseURL: "https://ziada-8d6ed-default-rtdb.firebaseio.com",
-  projectId: "ziada-8d6ed",
-  storageBucket: "ziada-8d6ed.firebasestorage.app",
-  messagingSenderId: "339410523312",
-  appId: "1:339410523312:web:ed341f1b5736dbb6dcd775",
-  measurementId: "G-54YVMQQRJ8"
+  apiKey: "AIzaSyCKanr7CGbYN976gNtQNaEd8wOfM3foqTE",
+  authDomain: "jooo-fade0.firebaseapp.com",
+  databaseURL: "https://jooo-fade0-default-rtdb.firebaseio.com",
+  projectId: "jooo-fade0",
+  storageBucket: "jooo-fade0.firebasestorage.app",
+  messagingSenderId: "390273445209",
+  appId: "1:390273445209:web:995e7b0f45c64c5c2d3048",
+  measurementId: "G-HCYE383B5T"
 };
 const firebaseRoot = "cashier_units_pro_momen_628a4_885766842";
 const fallbackRoots = ["cashier_units_pro_momen_628a4_885766842"];
@@ -693,14 +693,14 @@ ${SELECTOR_TABLES}{max-width:100%!important;overflow-x:auto!important;overflow-y
   var DEFAULT_ROOT = 'cashier_units_pro_momen_628a4_885766842';
   var DEFAULT_PASS = '0000000000@@';
   var firebaseConfigFinal = {
-    apiKey: 'AIzaSyDZM55q57Mwgf3t0WbzRYLnt2EGrY7lJMA',
-    authDomain: 'ziada-8d6ed.firebaseapp.com',
-    databaseURL: 'https://ziada-8d6ed-default-rtdb.firebaseio.com',
-    projectId: 'ziada-8d6ed',
-    storageBucket: 'ziada-8d6ed.firebasestorage.app',
-    messagingSenderId: '339410523312',
-    appId: '1:339410523312:web:ed341f1b5736dbb6dcd775',
-    measurementId: 'G-54YVMQQRJ8'
+    apiKey: 'AIzaSyCKanr7CGbYN976gNtQNaEd8wOfM3foqTE',
+    authDomain: 'jooo-fade0.firebaseapp.com',
+    databaseURL: 'https://jooo-fade0-default-rtdb.firebaseio.com',
+    projectId: 'jooo-fade0',
+    storageBucket: 'jooo-fade0.firebasestorage.app',
+    messagingSenderId: '390273445209',
+    appId: '1:390273445209:web:995e7b0f45c64c5c2d3048',
+    measurementId: 'G-HCYE383B5T'
   };
   var lastError = null;
 
